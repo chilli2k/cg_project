@@ -4,4 +4,6 @@
 
 A graphical illustration of the daily activities of a honey bee like fetching nectar.
 
-A bee will fly from the beehive to collect the nectar from flowers. This project is being developed using openGL C libraries like GLUT, GLU and GL.
+A bee will fly from the beehive to collect the nectar from flowers. This project is developed using openGL C libraries like GLUT, GLU and GL.
+
+This project was done as an academic requirement for Computer graphics laboratory as a team project(team size-2)
